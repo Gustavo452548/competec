@@ -11,13 +11,13 @@ public class Exercicio2 {
     import java.util.Scanner;
     
     public static void main(String[] args) {
-    Scanner cleitu =newScanner(System.in);
+    Scanner cleitu =new Scanner(System.in);
     
-    double laranja = 2.50; ⬇️
+    double laranja = 2.50;
     double uva = 1.50;
     double soma = laranja + uva;
 
-    system.out.println('a soma do valor da laranja com o valor da uva é '+ soma);
+    system.out.println("a soma do valor da laranja com o valor da uva é "+ soma);
    
     }
 }

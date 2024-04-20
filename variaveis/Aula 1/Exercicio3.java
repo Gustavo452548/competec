@@ -3,8 +3,13 @@
 
 public class Exercicio3 {
     public static void main(String[] args) {
-        // Escreva seu código aqui ⬇️
+        // Ex 1.⬇️
 
+        boolean chovendo = true;
+        boolean relampejando = false;
 
+        boolean comparacao = chovendo && relampejando;
+
+        System.out.println(comparacao);
     }
 }
